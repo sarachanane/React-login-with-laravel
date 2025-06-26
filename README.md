@@ -1,4 +1,4 @@
-﻿# React-login-with-laravel
+# React-login-with-laravel
 
 A clean and simple login page built with **React** as the frontend and a **Laravel API** as the backend. This project focuses on basic form handling — no authentication or token system involved.
 
@@ -17,20 +17,11 @@ A clean and simple login page built with **React** as the frontend and a **Larav
 
 ## 📽 Preview Videos
 
-<video width="100%" controls>
-  <source src="videos/video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+* [Video 1](videos/v2.mp4)
+* [Video 2](videos/v1.mp4)
+* [Video 3](videos/v3.mp4)
 
-<video width="100%" controls>
-  <source src="videos/video2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="100%" controls>
-  <source src="videos/video3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+> Click to view or download the videos. GitHub may preview them in-browser depending on the file type and browser support.
 
 ## 📂 Project Structure
 
